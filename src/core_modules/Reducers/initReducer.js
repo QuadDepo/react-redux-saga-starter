@@ -1,0 +1,5 @@
+// # Initial Store
+
+export default {
+
+};
